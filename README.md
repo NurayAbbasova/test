@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create with html and css Test.
 ## ## RULES OF USE
 
-> *STEP-1:* `https://github.com/cavidsuleyman/RESUME.git` <br/>
+> *STEP-1:* `https://github.com/NurayAbbasova/test.git` <br/>
 > *STEP-2:*  enter the `Test` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  open the folder with `cmd` or `Git Bash` and write `npm start` <br/>
